@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Porjects](https://coderpick.com)**
+- 👨‍💻 All of my projects are available at **[My Porjects](https://github.com/coderpick/projects)**
 
 - 📫 How to reach me **hafizur.dev@gmail.com**
 
