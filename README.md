@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Project Management Software]**
 
-- 🌱 I’m currently learning **React Js & Docker**
+- 🌱 I’m currently learning **Vue Js & Docker**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
