@@ -6,10 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Project Management Software]**
-
-- 🌱 I’m currently learning **Vue Js & Docker**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Porjects](https://github.com/coderpick/projects)**
